@@ -11,4 +11,4 @@ Here are some ideas to get you started:-->
 - 🌱 I'm interested in Coding and Web Development
 - 📫 How to reach me: @runkanaprasad1@gmail.com
 # 📊 GitHub Stats:
-![]([https://github-readme-streak-stats.herokuapp.com/?user=DurgaPrasad-R&theme=dark&hide_border=false])<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DurgaPrasad-R&theme=dark&hide_border=false)<br/>
