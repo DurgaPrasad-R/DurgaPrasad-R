@@ -32,5 +32,3 @@ Here are some ideas to get you started:-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DurgaPrasad-R&layout=compact)
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DurgaPrasad-R&theme=dark&hide_border=false)<br/>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
