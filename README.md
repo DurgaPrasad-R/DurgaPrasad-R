@@ -10,5 +10,7 @@ Here are some ideas to get you started:-->
 - 🔭 I'm enthusiastic about Machine Learning.
 - 🌱 I'm interested in Coding and Web Development
 - 📫 How to reach me: @runkanaprasad1@gmail.com
+######  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]: durga_prasad_004
+###### [![Telegram](https://img.shields.io/badge/telegram%20-Telegram-blue)]:
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DurgaPrasad-R&theme=dark&hide_border=false)<br/>
